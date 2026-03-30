@@ -4,11 +4,11 @@
 
 ## Completed Tasks
 
-###1. Task 1: Exploring and Visualizing a Simple Dataset
+### 1. Task 1: Exploring and Visualizing a Simple Dataset
 * **Objective:** Load, inspect, and visualize the Iris Dataset to understand data trends and distributions.
 * **Skills Demonstrated:** Data exploration with `pandas`, descriptive statistics, and visualization using `seaborn` and `matplotlib`.
 
-###2. Task 2: Predict Future Stock Prices (Short-Term) 
+### 2. Task 2: Predict Future Stock Prices (Short-Term) 
 * **Objective:** Use historical stock market data to predict the next day's closing price using regression modeling.
 * *Skills Demonstrated:** Time series data handling, data fetching via `yfinance` API, and plotting actual vs. predicted prices.
 
